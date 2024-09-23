@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be reviewing for AISTATS 2025 and ICASSP 2025.
+I will be reviewing at ICASSP 2025 and AISTATS 2025.

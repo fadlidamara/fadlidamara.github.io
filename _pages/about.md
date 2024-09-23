@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Member of Probabilistic Modeling and Inference Lab at <a href='https://www.bifold.berlin/'>BIFOLD</a> <br> <br>
+subtitle: Member of Probabilistic Modeling and Inference Lab at [BIFOLD](https://www.bifold.berlin/) <br> <br>
 
   EECS PhD student at the Machine Learning Group, TU Berlin
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 **Previously:**
 Before joining BIFOLD, I was actively involved in 6G research at the Fraunhofer Heinrich-Hertz Institute, focusing on neural joint source-channel coding and signal source separation problems.
 
-I earned my M.Sc. in Electrical Engineering from TU Berlin, where I collaborated with <a href='https://www.user.tu-berlin.de/peter.jung/'>Peter Jung</a> and contributed to the field of compressive sensing leveraging priors from deep generative models.
+I earned my M.Sc. in Electrical Engineering from TU Berlin, where I collaborated with [Peter Jung](https://www.user.tu-berlin.de/peter.jung/) and contributed to the field of compressive sensing leveraging priors from deep generative models.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

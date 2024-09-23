@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Berlin Institute for the Foundations of Learning and Data (BIFOLD) as a Research Scientist!
+I joined BIFOLD (Berlin Institute for the Foundations of Learning and Data) as a Research Scientist!

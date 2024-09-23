@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://damara.github.io/sitemap.xml
+Sitemap: https://fadlidamara.github.io/sitemap.xml

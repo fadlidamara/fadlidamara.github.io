@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my work at ICASSP 2024 Seoul :sparkles:
+I will be presenting my work at ICASSP 2024 Seoul!

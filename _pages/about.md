@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Member of Probabilistic Modeling and Inference Lab at <a href='#https://www.bifold.berlin/'>BIFOLD</a>
-
-EECS PhD Student
+  EECS PhD Student
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:

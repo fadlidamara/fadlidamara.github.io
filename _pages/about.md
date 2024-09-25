@@ -20,10 +20,12 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-**Research:** My current focus is on developing advanced techniques for diffusion models to solve general inverse problems, particularly investigating guidance mechanisms, conditioning, and projection methods. I am also exploring universal joint source-channel coding with deep neural networks, with particular interest in their scalability and the underlying scaling laws.
+I am an EECS PhD student advised by [Shinichi Nakajima](https://web.ml.tu-berlin.de/author/dr.-shinichi-nakajima/) in the Machine Learning Group of [Prof. Dr. Klaus-Robert Müller](https://web.ml.tu-berlin.de/author/prof.-dr.-klaus-robert-muller/).
+
+**Research:** My current focus is on developing advanced techniques for diffusion models to solve general inverse problems, particularly using guidance mechanisms, conditioning, and projection methods. I am also investigating universal joint source-channel coding using self-supervised neural networks, with particular interest in their scalability and the underlying scaling laws. 
 
 **Previously:**
-Before joining BIFOLD, I was actively involved in 6G research at the Fraunhofer Heinrich-Hertz Institute, focusing on neural joint source-channel coding and signal source separation problems.
+Before joining BIFOLD, I was actively involved in 6G research at the [Fraunhofer Heinrich-Hertz Institute](https://www.hhi.fraunhofer.de/), focusing on neural joint source-channel coding and signal separation problems.
 
 I earned my M.Sc. in Electrical Engineering from TU Berlin, where I collaborated with [Peter Jung](https://www.user.tu-berlin.de/peter.jung/) and contributed to the field of compressive sensing leveraging priors from deep generative models.
 

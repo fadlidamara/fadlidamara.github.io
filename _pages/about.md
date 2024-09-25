@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Member of Probabilistic Modeling and Inference Lab at <a href="https://www.bifold.berlin/">BIFOLD</a> <br>
 
-  EECS PhD student at the Machine Learning Group, TU Berlin
+  EECS PhD student at the  <a href="https://web.ml.tu-berlin.de/">Machine Learning Group, TU Berlin</a> 
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -20,7 +20,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-**Research:** I am an EECS PhD student advised by [Shinichi Nakajima](https://web.ml.tu-berlin.de/author/dr.-shinichi-nakajima/) in the Machine Learning Group of [Prof. Dr. Klaus-Robert Müller](https://web.ml.tu-berlin.de/author/prof.-dr.-klaus-robert-muller/). My current focus is on developing advanced techniques for diffusion models to solve general inverse problems, particularly using guidance mechanisms, conditioning, and projection methods. I am also investigating universal joint source-channel coding using self-supervised neural networks, with particular interest in their scalability and the underlying scaling laws. 
+**Research:** I am an EECS PhD student advised by [Shinichi Nakajima](https://web.ml.tu-berlin.de/author/dr.-shinichi-nakajima/) in the Machine Learning Group of [Prof. Dr. Klaus-Robert Müller](https://scholar.google.com/citations?user=jplQac8AAAAJ&hl=en). My current focus is on developing advanced techniques for diffusion models to solve general inverse problems, particularly using guidance mechanisms, conditioning, and projection methods. I am also investigating universal joint source-channel coding using self-supervised neural networks, with particular interest in their scalability and the underlying scaling laws. 
 
 **Previously:**
 Before joining BIFOLD, I was actively involved in 6G research at the [Fraunhofer Heinrich-Hertz Institute](https://www.hhi.fraunhofer.de/), focusing on neural joint source-channel coding and signal separation problems.

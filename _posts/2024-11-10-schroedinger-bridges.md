@@ -1,6 +1,9 @@
 ---
 layout: distill
 title: The Schrödinger Bridge Problem
+featured_image: "/assets/img/schroedinger-bridges/sbp.png"
+featured_image_scale: "70%"
+featured_image_bg_color: "DABD84"
 date: 2024-10-20
 authors:
   - name: Fadli Damara

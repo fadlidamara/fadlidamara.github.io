@@ -1,0 +1,100 @@
+/* Add space above the latest posts heading */
+h2:has(+ .latest-posts-container),
+h2 + .latest-posts-container {
+  margin-top: 2rem;
+}
+
+h2 a[href*="/blog/"] {
+  display: block;
+  margin-top: 2rem;
+}
+
+.latest-posts-container {
+  margin: 1rem 0;
+}
+
+.post-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 1.20rem;
+  transition: box-shadow 0.3s ease-in-out;
+  min-height: 300px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.post-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-gradient-top {
+  height: 300px;
+  background-color: var(--bg-color, #ffffff);
+  background-image: var(--bg-image);
+  background-size: var(--image-scale, contain);
+  background-position: center 25%;
+  background-repeat: no-repeat;
+  width: 100%;
+  position: relative;
+}
+
+.card-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  padding: 1rem;
+  border-radius: 0 0 1.20rem 1.20rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+.card-content {
+  color: var(--global-text-color);
+}
+
+.card-content .card-title {
+  font-size: 1rem;
+  font-weight: 500;
+  margin: 0 0 0.25rem 0;
+  line-height: 1.3;
+  color: var(--global-text-color);
+  
+  /* 2-line truncation with ellipsis */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-content .card-date {
+  font-size: 0.85rem;
+  margin: 0;
+  opacity: 0.7;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+}
+
+.post-card-link {
+  display: block;
+  color: inherit;
+}
+
+.post-card-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post-card-link:hover .card-content .card-title {
+  color: var(--global-theme-color);
+}
+
+/* Remove old styles for the external title */
+.post-card-title {
+  display: none;
+}
+
+.post-card .card-footer {
+  background-color: transparent;
+  border-top: none;
+} 
